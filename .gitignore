@@ -1,2 +1,5 @@
 GPTvenv
 bigram/*.txt
+tinygpt/data/*.txt
+tinygpt/data/*.bin
+tinygpt/src/__pycache__
